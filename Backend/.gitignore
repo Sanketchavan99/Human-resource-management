@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+node_modules/
+
+frontend/.env
+backend/.env
+frontend/.env.*
+backend/.env.*
+
+dist/
+build/
+>>>>>>> 8de0e43 (update gitignore)
